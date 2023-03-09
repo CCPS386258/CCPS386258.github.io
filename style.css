@@ -1,7 +1,13 @@
 h1 {
   font-family: american typewriter, serif;
+  color: burgundy;
 }
 
 body {
   font-family: bradley hand, cursive;
+}
+
+#About Me {
+  font-family: american typewriter, serif;
+  color: pink;
 }
