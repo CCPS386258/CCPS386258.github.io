@@ -1,8 +1,38 @@
 h1 {
   font-family: "Ink Free";
+  font-weight: bold;
 }
 
 body {
   font-family: papyrus;
-  color: pink; 
+  color: pink;
+}
+  
+ p {
+ font-size: 14pt; 
+ color: #5C2AC7;
+   
+}
+
+ul {
+ font-size: 14pt
+ color: #C72A56;
+ 
+}
+
+ol {
+ font-size: 14pt;
+ color: #C72A56;
+}
+
+header {
+  background-color: #87CEEB;
+  border: 5px solid #FFF9D4;
+  border-width: thin;
+}
+
+footer {
+  font-size: 16tpt;
+  color: #FF8080;
+ 
 }
